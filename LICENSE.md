@@ -1,4 +1,4 @@
-# 
+# instant bitmex trading bot Strategy | API-integration + cross-margin is the best bitmex trading bot, featuring API-integration and cross-margin. Smart, fast, and optimized for
 
 
 
